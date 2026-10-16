@@ -1,0 +1,1 @@
+{"error":{"code":"insufficient_credits","message":"Insufficient balance. Your Cline Credits balance is $0.00","current_balance":0.004634,"total_spent":0,"total_promotions":0,"buy_credits_url":"https://app.cline.bot/credits"}}
